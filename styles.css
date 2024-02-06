@@ -1,4 +1,8 @@
 /*  your css code here. If applicable */
 container::before{
-	color: red;
+	color: rgb(255, 0, 0);
+}
+
+container::after{
+	color: rgb(255, 0, 0);
 }
